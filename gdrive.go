@@ -10,9 +10,9 @@ import (
 const Name = "gdrive"
 const Version = "3.0.10"
 
-const DefaultMaxFiles = 30
+const DefaultMaxFiles = 60
 const DefaultMaxChanges = 100
-const DefaultNameWidth = 40
+const DefaultNameWidth = 60
 const DefaultPathWidth = 60
 const DefaultUploadChunkSize = 8 * 1024 * 1024
 const DefaultTimeout = 5 * 60
