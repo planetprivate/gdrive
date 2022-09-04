@@ -14,8 +14,8 @@ import (
 	"github.com/msfjarvis/gdrive/drive"
 )
 
-const ClientId = "CHANGE ME.apps.googleusercontent.com"
-const ClientSecret = "CHANGE"
+const ClientId = "ABCDEFGH"
+const ClientSecret = "IJKLMNOPQ"
 const TokenFilename = "USERNAME_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
